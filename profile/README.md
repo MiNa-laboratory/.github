@@ -9,6 +9,7 @@
 
 ### 유니티를 활용한 Desktop App
 <img width="512" alt="스크린샷 2024-03-29 오후 5 14 05" src="https://github.com/MiNa-laboratory/.github/assets/104830859/009fe196-8df1-47b1-a2aa-9c976d02123e">
+
 추후 3D모델을 활용한 표정 연출, 움직임 등을 구현할 예정입니다.
 
 #### UI/UX
